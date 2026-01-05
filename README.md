@@ -46,15 +46,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-- [Fitness Center Website](https://github.com/Yashkadekar/fitness-center-website) – Modern, responsive site for fitness centers.
-- [My Portfolio](https://github.com/Yashkadekar/My-Portfolio) – Personal portfolio site.
-- [Health Insurance AI](https://github.com/Yashkadekar/Health-Insurance-AI) – AI for health insurance analysis.
-- [Construction Site Portfolio](https://github.com/Yashkadekar/Construction-Site-Portfolio-) – Construction site project portfolio.
-- [Air Cursor](https://github.com/Yashkadekar/Air-Cursur) – Air gesture mouse control.
-
----
 
 ## 📌 Currently Working On
 
